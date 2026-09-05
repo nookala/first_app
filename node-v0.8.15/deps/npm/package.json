@@ -57,7 +57,7 @@
     "archy": "0",
     "chownr": "0",
     "npmlog": "0",
-    "ansi": "~0.1.2",
+    "ansi": "~0.3.0",
     "npm-registry-client": "~0.2.10",
     "read-package-json": "~0.1.8",
     "read-installed": "0.0.3",
